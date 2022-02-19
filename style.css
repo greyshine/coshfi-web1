@@ -31,5 +31,19 @@ div.imprint a#aImprint {
 }
 
 #imprint_content {
+    color: #2C4E22;
     margin-top: 15px;
+    font-size: small;
+}
+
+#imprint_content a {
+    color: #2C4E22;
+    font-size: small;
+    text-decoration: none;
+}
+
+#imprint_content a:active {
+    color: #2C4E22;
+    font-size: small;
+    text-decoration: none;
 }
