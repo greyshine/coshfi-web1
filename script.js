@@ -13,7 +13,6 @@ const _init = function() {
         const displayValue = hiddenImprint ? 'none' : 'inline';
         document.getElementById('imprint_content')
             .style.display = displayValue;
-
     });
 };
 
